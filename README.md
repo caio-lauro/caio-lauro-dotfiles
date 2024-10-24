@@ -2,4 +2,7 @@
 
 ## Mante
 Original/ Credit: https://github.com/gvoze32/Mainte.git \
-Modified configuration and path, stupidly named the folder "Mante" and had to readjust the paths.
+Modified configurations.
+
+## Fix KDE Plasma Store
+www.reddit.com/r/kde/comments/qq466h/system_settings_wont_open/
