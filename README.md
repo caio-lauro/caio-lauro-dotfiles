@@ -5,4 +5,7 @@ Original/ Credit: https://github.com/gvoze32/Mainte.git \
 Modified configurations.
 
 ## Fix KDE Plasma Store
-www.reddit.com/r/kde/comments/qq466h/system_settings_wont_open/
+https://www.reddit.com/r/kde/comments/qq466h/system_settings_wont_open/
+
+## Drivers for TL-WN823n
+https://askubuntu.com/questions/1211157/how-do-i-get-a-tp-link-tl-wn823n-v3-wireless-adapter-working
