@@ -1,4 +1,4 @@
-# caio-lauro's dotfiles for (Laptop Acer Aspire 3 A315-24p-r06b)
+# caio-lauro's dotfiles <!-- (for Laptop Acer Aspire 3 A315-24p-r06b) -->
 
 ## fastfetch
 
