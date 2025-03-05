@@ -21,6 +21,10 @@ Original/ Credit: https://www.youtube.com/watch?v=6pAG3BHurdM&ab_channel=JoseanM
 
 Original/ Credit: https://github.com/adi1090x/rofi
 
+## kitty
+
+Made from scratch.
+
 <!--
 ## Fix KDE Plasma Store
 https://www.reddit.com/r/kde/comments/qq466h/system_settings_wont_open/
